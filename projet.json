@@ -1,0 +1,346 @@
+{
+    "chapitres": [
+      {
+        "catégorie": "Contexte et méthodologie",
+        "paragraphes": [
+          {
+            "id": "paragrafo1",
+            "catégorie": "concetto",
+            "sous-catégorie": "nuovo-materialismo",
+            "texte": "Les technologies numériques structurent l’univers dans lequel nous vivons. Elles déterminent temporellement et spatialement la réalité et influencent les représentations, c’est-à-dire notre manière d’appréhender le monde en tant que totalité composée d’objets stables et clairement définis. Pensons, par exemple, aux appareils mobiles. Ils nous incitent à construire continuellement notre présence en ligne et à diriger notre attention vers la construction d’autres présences, en systématisant une gestuelle « déambulatoire et scripturale » (Cavallari, 2017). Nous marchons effectivement la tête baissée en tambourinant sur l’écran pour répondre à un message ou nous nous déplaçons dans l’espace en suivant la ligne indiquée par notre navigateur de confiance, en passant nos doigts sur la surface du dispositif pour mieux comprendre où aller. Ces gestuelles jouent un rôle central dans la constitution de notre sphère d’action et de perception, déterminant, notamment, la manière dont nous vivons et comprenons la ville (Cavallari, 2017). Des dynamiques similaires peuvent être observées dans de nombreux autres contextes : la production et la circulation de l’information, les transactions économiques et la manière dont nous définissons et incarnons les idées de personne et de mémoire sont désormais façonnées et rendues possibles par des technologies informatiques. La confrontation avec ces dispositifs est donc indispensable à toute réflexion sur le présent."
+          },
+          {
+            "id": "paragrafo2",
+            "catégorie": "concetto",
+            "sous-catégorie": "nuovo-materialismo",
+            "texte": "De manière complémentaire, tenter de comprendre le sens de ces dispositifs nous interpelle sur notre façon de connaître et de vivre dans le monde. La notion de « culture numérique » élaborée par Milad Doueihi théorise précisément cette influence mutuelle, en mettant l’accent sur la portée des dispositifs numériques dans la production et la circulation des connaissances. Il s’agit d’une transformation radicale qui concerne « la nature même des objets de notre savoir » et « l’espace censé les accueillir et les faire circuler » (2011, p. 11)."
+          },
+          {
+            "id": "paragrafo3",
+            "catégorie": "concetto",
+            "sous-catégorie": "critical-code-studies",
+            "texte": "Pour clarifier cette notion, Doueihi fait référence au concept d’amitié, montrant que la culture
+            numérique reprend et, en même temps, remodèle profondément la définition classique de cette notion. Il se réfère plus particulièrement aux cas de Facebook et de Wikipédia [-@doueihiPourHumanismeNumerique2011a, p. 81]. D’une part, la définition aristotélicienne d’amitié présuppose une condition d’égalité et d’équivalence entre les sujets, excluant ainsi tout ordre hiérarchique ou relation de pouvoir. D’autre part, alors que Facebook présente une radicalisation du concept, établissant une communauté qui oublie les spécificités et les besoins individuels, Wikipédia exclut toute relation personnelle entre les utilisateurs, identifiant la notion d’égalité
+            avec l’anonymat des auteurs. Tandis que dans la modélisation de Facebook, le partage est poussé à
+            l’extrême et concerne tous les domaines, Wikipédia initie une interaction exclusivement tournée vers
+            le savoir, lui-même identifié à l’information objective."
+          }
+        ]
+      }
+    ]
+  }
+  
+
+
+
+## Contexte et méthodologie
+Les technologies numériques structurent l’univers dans lequel nous vivons. Elles déterminent tem-
+porellement et spatialement la réalité et influencent les représentations, c’est-à-dire notre manière
+d’appréhender le monde en tant que totalité composée d’objets stables et clairement définis. Pensons,
+par exemple, aux appareils mobiles. Ils nous incitent à construire continuellement notre présence en
+ligne et à diriger notre attention vers la construction d’autres présences, en systématisant une gestuelle
+« déambulatoire et scripturale » (Cavallari, 2017). Nous marchons effectivement la tête baissée en tam-
+bourinant sur l’écran pour répondre à un message ou nous nous déplaçons dans l’espace en suivant la
+ligne indiquée par notre navigateur de confiance, en passant nos doigts sur la surface du dispositif pour
+mieux comprendre où aller. Ces gestuelles jouent un rôle central dans la constitution de notre sphère
+d’action et de perception, déterminant, notamment, la manière dont nous vivons et comprenons la
+ville (Cavallari, 2017). Des dynamiques similaires peuvent être observées dans de nombreux autres
+contextes : la production et la circulation de l’information, les transactions économiques et la manière
+dont nous définissons et incarnons les idées de personne et de mémoire sont désormais façonnées et
+rendues possibles par des technologies informatiques. La confrontation avec ces dispositifs est donc
+indispensable à toute réflexion sur le présent.
+
+De manière complémentaire, tenter de comprendre le sens de ces dispositifs nous interpelle sur notre
+façon de connaître et de vivre dans le monde. La notion de « culture numérique » élaborée par Milad
+Doueihi théorise précisément cette influence mutuelle, en mettant l’accent sur la portée des dispositifs
+numériques dans la production et la circulation des connaissances. Il s’agit d’une transformation
+radicale qui concerne « la nature même des objets de notre savoir » et « l’espace censé les accueillir et
+les faire circuler » (2011, p. 11).
+
+Pour clarifier cette notion, Doueihi fait référence au concept d’amitié, montrant que la culture
+numérique reprend et, en même temps, remodèle profondément la définition classique de cette
+notion. Il se réfère plus particulièrement aux cas de Facebook et de Wikipédia (2011, p. 81). D’une part,
+la définition aristotélicienne d’amitié présuppose une condition d’égalité et d’équivalence entre les
+sujets, excluant ainsi tout ordre hiérarchique ou relation de pouvoir. D’autre part, alors que Facebook
+présente une radicalisation du concept, établissant une communauté qui oublie les spécificités et les
+besoins individuels, Wikipédia exclut toute relation personnelle entre les utilisateurs, identifiant la
+notion d’égalité avec l’anonymat des auteurs. Tandis que dans la modélisation de Facebook, le partage
+est poussé à l’extrême et concerne tous les domaines, Wikipédia initie une interaction exclusivement
+tournée vers le savoir, lui-même identifié à l’information objective.
+La culture numérique n’existe pas indépendamment de la culture tout court, la modélisation qu’elle
+propose en dépend directement. L’exemple sur la notion d’amitié proposé par Doueihi nous montre
+que les outils numériques sont capables de modifier notre monde parce qu’ils en font essentiellement
+partie.
+
+En d’autres termes, l’impact transformateur du dispositif n’est pas une invention créée ex novo, mais
+est également déterminé par les cultures, les pratiques, les institutions, la disponibilité de matériel, les
+dynamiques spatiales et temporelles au sein desquelles le dispositif lui-même est constitué et exerce
+son influence. La célèbre expression de Marshall McLuhan – « medium is the message » – (Mcluhan
+et Lapham, 1994) pourrait ainsi être intégrée à partir de ces réflexions. Le message dépend de la
+manière dont le média prend en compte et formate le réel, qui n’est jamais neutre. Le réel peut être
+transformé par le médium, même radicalement, mais ne peut à son tour manquer d’avoir un impact
+sur la constitution du support lui-même.
+
+Le domaine émergent des études critiques du code s’intéresse précisément à l’influence mutuelle
+entre le dispositif numérique et les systèmes et cultures dans lesquels il est intégré (Marino, 2020).
+En identifiant dans le code informatique la clé d’accès à l’étude de cette interdépendance, les études
+critiques de code cherchent à observer la portée culturelle du code au-delà de la fonction spécifique
+pour laquelle il a été créé. Ce dernier est compris en tant qu’artefact, conçu et mis en œuvre dans
+un contexte matériel et social. Le code est en effet défini par son histoire, ses usages et par « les
+interconnexions et les dépendances avec d’autres codes, matériels et cultures »1 (2020, p. 31).
+A partir de ce constat, Mark Marino peut affirmer que l’étude de la structure technique du code en dit
+long sur le contexte matériel et culturel dans lequel il est conçu et utilisé : « analyzing code to better
+understand programs and the networks of other programs and humans they interact with, organize,
+represent, manipulate, transform, and otherwise engage. Reading code functions as an entry point to
+reading culture » (2020, p. 44). Si le code est conçu comme un outil épistémologique pour comprendre
+de telles interactions, sa véracité est garantie par sa nature hybride et médiale.
+
+En effet, le code est défini par Marino comme le garant de la rencontre entre les intentions humaines,
+toujours enracinées dans une culture, et la structure matérielle du dispositif informatique. Il est donc
+compris en tant qu’expression et concrétisation de la pensée humaine. Concrétisation qui émerge à
+l’intérieur des outils informatiques en vue de la réalisation d’un programme, d’une fonction ou d’un
+logiciel spécifique. « [M]ost code is an expression of thought in a kind of shorthand, typically not an
+ends but a set of symbols that emerge from the process of making something else », écrit encore Marino
+(2020, p. 234).
+
+Selon cette approche, le code est le support de la pensée humaine dans le contexte technique de
+la machine (2020, p. 154). En tant que symbolisation de la pensée, il devient une représentation
+du discours humain. Marino peut ainsi affirmer la possibilité et la nécessité d’élaborer une lecture
+herméneutique du code informatique, afin de comprendre les systèmes et les cultures auxquelles il se
+réfère et qui le déterminent. Il s’agit donc de définir ce qu’il est nécessaire d’observer pour mener à
+bien une telle analyse herméneutique.
+
+À la question « What can be interpreted? », Marino répond : « Everything. The code, the documentation,
+the comments, the structures, the compiled versions – all will be open to interpretation », arguant
+qu’une lecture du code informatique doit prendre en compte tous ces éléments (Marino, 2020, p.
+44). Quelques lignes plus loin, ce même auteur soutient l’importance de lire le code en fonction du
+destinataire (audience) pour lequel il a été écrit. Le destinataire correspond pour Marino à la machine
+qui exécute le code, aux autres machines avec lesquelles il interagit et à ceux et celles qui tenteront de
+comprendre sa structure afin d’y apporter des modifications (Marino, 2020, p. 44). L’audience garantit
+l’existence du code en tant qu’objet écrit pour être compris, et mis en œuvre. Outre les intentions et
+la culture de l’auteur, le code est ainsi également déterminé par les attentes et les capacités de ses
+lecteurs.
+
+Parmi ses lecteurs, la machine garantit son exécutabilité, c’est-à-dire sa nature agentive, sa possibilité
+de faire quelque chose. La nature transformatrice du code en tant qu’incarnation de la pensée est ainsi
+assurée par sa conformité avec la machine. Les réflexions proposées par les études critiques du code
+montrent qu’il s’agit d’un artefact culturel intrinsèquement performatif.
+Les termes avec lesquels Mark Marino définit le code informatique sont certainement utiles pour
+réfléchir sur les instances qui participent à sa production et qui, à leur tour, sont modélisées par le
+code lui-même. Cependant, l’assimilation complète de cette dernière à la représentation de la pensée
+humaine qui veut agir sur la machine pour réaliser autre chose pourrait impliquer des conséquences
+problématiques. Pour pouvoir remplir ce rôle, le code devrait s’interposer entre deux éléments radi-
+calement différents : la pensée, la culture de l’auteur, et le dispositif sur lequel cette pensée veut agir.
+Pour remplir cette fonction intermédiaire, le code devrait être un objet modelé par les deux parties,
+permettant aux deux pôles de communiquer et de se contaminer. C’est ainsi qu’il pourrait constituer la
+clé de compréhension du dispositif informatique et de la culture humaine que Marino recherchait.
+À cet égard, Wendy Chun note que le code est souvent considéré comme l’essence du dispositif
+numérique parce que la nature de son exécutabilité n’est pas suffisamment problématisé (Chun, 2008).
+De son point de vue, établir que le code source est au centre de la communication homme-machine
+revient en fait à présupposer l’exécutabilité en tant que caractéristique inhérente et innée du code.
+Une telle présupposition constituerait un stratagème méthodologique pour éviter de problématiser
+la manière dont son efficacité est garantie. De l’abnégation du problème de l’exécutabilité dépend,
+selon Chun, l’assimilation fallacieuse du code à la « source », c’est-à-dire à l’objet au cœur du dispositif
+informatique.
+
+Selon cette perspective, considérer le code comme un intermédiaire entre la culture humaine et le
+fonctionnement de la machine revient à poser une relation de cause à effet injustifiée entre les deux
+termes. Le code serait l’objet abstrait responsable de cette relation. En reprenant les termes de Chun,
+la fonction causale attribuée au code en ferait un « fétiche » ou un « démon », car elle lui conférerait
+une forme d’autonomie innée, inexplicable, mais indispensable à l’utilisation et à la compréhension de tout objet informatique (2008).
+
+Ed Finn définit la compréhension courante de l’algorithme en des termes similaires et, en même temps,
+complémentaires. En effet, il montre que pour le sens commun, l’algorithme est la concrétisation dans
+une application ou un programme d’une intelligence informatique autrement incompréhensible et
+radicalement différente. Il écrit: « The algorithm becomes the mechanism of translation : the prism or
+instrument by which the eternally fungible space of effective computability is focalized and instantiated
+in a particular program, interface, or user experience » (Finn, 2017, p. 35).
+À l’instar des remarques de Chun, selon cette perspective, la notion d’algorithme indique un objet
+intermédiaire, qui renvoie à un sens ultérieur et le concrétise sous une forme donnée. Dans ce cas,
+le sens symbolisé n’est identifiable ni dans la nature du dispositif, ni dans la pensée humaine, mais
+précisément dans une intelligence computationnelle, au-delà du dispositif lui-même. L’algorithme
+concrétiserait cette forme de pensée, la rendant effective dans notre monde matériel et donc intelligible
+pour nous. Comme si l’algorithme donnait sens au programme. À l’instar du code-fétiche théorisé par
+Chun, l’algorithme devient l’intermédiaire insondable et imaginé ad hoc pour expliquer une relation
+causale, qui est en fait problématique. Si le code établissait une causalité entre la pensée humaine et
+la structure matérielle de la machine, l’algorithme du sens commun pose une relation similaire entre
+la pensée et l’intelligence informatique.
+
+Malgré les différences entre les concepts abordés, la difficulté de justifier l’échange d’informations et
+l’influence mutuelle entre des termes opposés apparaît dans les deux cas. Influence qui s’affirme donc
+à travers ces réflexions et qui en est d’ailleurs à l’origine. Le dispositif numérique est composé d’idée et
+de programme, de besoins humains et de contraintes techniques, de culture et de code. Dans l’outil
+informatique, ces composantes existent « au même niveau », comme le dirait Simondon (Simondon,
+2012, p. 175). Entendus dans les termes décrits ci-dessus, le code et l’algorithme sont censés garantir
+cette synergie entre les différents éléments, mais ne parviennent pas à la justifier. Ils mettent donc en
+évidence la nécessité de la définir plus précisément.
+
+Se référant à la notion de performativité de Judith Butler (cfr. Butler, 1997), Chun propose de contourner
+le problème du support en affirmant la priorité de l’exécution sur le code. Le code émergerait de
+l’exécution, qui serait caractérisée par une itérabilité rigoureuse (Chun, 2008). À son tour, l’itérabilité
+performative de l’exécution serait soutenue et rendue possible par une structure institutionnelle,
+politique et machinique. Cependant, de cette manière le paradoxe de la communicabilité entre humain
+et machine risquerait d’être simplement transposé et non résolu. Nous devrions définir la dynamique
+qui donne naissance à cette structure, car l’omission d’une telle définition laisserait place aux mêmes
+questions que Chun elle-même avait soulevées en se référant aux risques associés à l’essentialisation
+du code source. Comme l’algorithme ou le code, une telle structure pourrait en effet incarner une
+forme de causalité qui n’est pas pleinement justifiée.
+
+Pour éviter ce danger, il semble utile de définir une telle structure en recourant aux réflexions du nouveau matérialisme. Il s’agit d’un courant qui s’intéresse au rôle de la matière dans la constitution de la
+réalité et qui, plus profondément, nie toute opposition ontologique entre le sens et la matière (Gamble
+et al., 2019). La structure décrite par Chun pourrait être assimilée à une telle réalité matérielle.
+
+Selon cette perspective, l’intelligence humaine, la pensée logico-formelle, l’algorithme, la structure
+des dispositifs techniques, l’exécutabilité qui détermine le code, et les autres éléments que nous avons
+mentionnés jusqu’à présent sont des objets et des concepts immanents à la matière, ils en font partie.
+Composants d’un même contenu ontologique, ces éléments ne peuvent être pensés qu’en relation et
+constamment déterminés par cette dernière (Barad, 2007). Relation qui, selon le nouveau matérialisme,
+correspond à l’activité de la matière et à sa reconfiguration continue (Gamble et al., 2019). Il ne serait
+donc plus nécessaire d’imaginer un médium pour l’expliquer. Afin de comprendre le potentiel de
+cette approche pour une analyse herméneutique du dispositif numérique, il est donc nécessaire de se
+questionner sur la façon dont le dispositif participe à cette relation.
+
+Il nous semble particulièrement utile d’appliquer cette perspective à l’étude du protocole informatique,
+car il s’agit de la systématisation de pratiques partagées, résultant d’une négociation entre besoins
+différents, forces politiques, disponibilités économiques et matérielles. Fruit de cette négociation
+explicite, le protocole établit le modèle et la norme pour faciliter ou optimiser un processus. C’est donc
+la négociation elle-même qui définit constamment son sens (Galloway, 2004, p. 243).
+
+Le protocole détermine également les processus de production et le développement des compétences
+qui perpétuent son activité de normalisation, confirmant son influence sur les communautés mêmes
+qui le mettent en œuvre et contribuent à le définir. Dans le même temps, l’implementation d’un
+protocole implique la sélection et la systématisation de formats et de langages informatiques à utiliser
+dans cette mise en œuvre. Elle déclenche une série de choix et de standardizations qui ne font pas
+partie du modèle protocolaire en tant que tel, mais qui sont néanmoins indispensables à son existence
+effective. Le protocole en tant que modèle théorique implémenté dans des réalités concrètes nous
+fournit ainsi un exemple de l’interdépendance entre systèmes informatiques et culturels.
+
+En prenant l’exemple du protocole TCP/IP, nous examinerons l’articulation de la relationnalité entre
+les trois objets que nous avons introduits en citant les travaux de Marino et Finn : l’implémentation
+dans une culture spécifique, la logique formelle et le contexte matériel. Nous nous intéressons plus
+particulièrement à TCP/IP puisqu’il s’agit du protocole mis en œuvre par Internet ; c’est donc un
+des systèmes théoriques et fonctionnels qui garantissent la diffusion extensive du numérique dans
+le monde d’aujourd’hui (Ryan, 2010). Une grande partie de la production et de la circulation de
+l’information, des transactions économiques et des interactions humaines sont désormais façonnées
+et rendues possibles par une telle norme. Nous espérons par conséquent que cette étude de cas sera
+un point de départ pour l’analyse herméneutique d’autres objets numériques et, en général, pour
+observer l’intégration des technologies numériques dans notre monde.
+
+## Problématique et Hypothèse
+
+Les réflexions avancées par Mark Marino sur la signification culturelle du code informatique, par Peppe
+Cavallari sur la reconfiguration de l’espace due à l’utilisation de dispositifs numériques, ou de Milad
+Doueihi sur la notion de culture numérique, nous montrent que les technologies informatiques sont
+structurées par une sorte de collaboration entre différentes instances, attribuables aux catégories
+traditionnelles de la pensée et de la matière. Cette relation serait difficilement compréhensible si ces
+catégories étaient en opposition substantielle. À travers ce projet de thèse, nous voulons montrer la
+possibilité d’une herméneutique du numérique, qui découle précisément du refus de toute opposition
+entre la pensée et la matière.
+Si l’on admettait l’existence d’une différence ontologique entre ces deux termes, il faudrait en effet soit
+rejeter la portée singulière du dispositif informatique en le réduisant à une simple puissance de calcul,
+soit attribuer cette portée à une pensée incohérente avec notre mode de représenter le monde.
+Dans les deux cas, nous n’aurions aucune possibilité de comprendre la portée des objets informa-
+tiques. En effet, si le dispositif numérique était une pensée radicalement différente de la nôtre, nous
+ne pourrions le définir que négativement, en soulignant les différences avec notre intelligence. Nous
+risquerions sinon d’adopter des définitions métaphoriques, comme l’ont déjà souligné Chun et Finn. Si,
+par contre, le dispositif correspondait à un simple substrat matériel, nous devrions penser son impact
+sur le monde comme notre représentation, qui dépend entièrement de nos facultés d’interprétation.
+Nous retomberions alors dans une forme d’idéalisme radical. Le code et l’algorithme ne seraient que
+des « langages artificiels », décidés par les seuls humains. Conformément aux observations de Gadamer
+dans Vérité et méthode, ils manqueraient de « vitalité » parce qu’ils n’auraient pas aucune correspon-
+dance avec des objets sensibles (Bajer, 2022). Surgirait également le problème de la conciliation entre
+concept et objet empirique, que Kant tentait déjà de résoudre en introduisant la notion de schème.
+
+Le paradigme du néo-matérialisme nous montre une voie pour repenser l’alternative entre représenta-
+tion et matière et, par conséquent, pour admettre la possibilité d’une herméneutique de la portée du
+dispositif informatique. L’adoption d’une telle approche ne peut cependant pas faire l’économie d’une
+remise en cause partielle d’autres catégories centrales de la tradition de la pensée occidentale, telles
+que la causalité et le sens même de la compréhension (cfr. Barad, 2003).
+Abordons la notion de cause. Nous avons déjà montré que les dispositifs matériels modifient notre
+façon de voir le monde et que, dans un sens complémentaire, nos représentations déterminent les
+technologies informatiques. Excluant donc toute hiérarchisation entre les dispositifs numériques et
+la pensée, nous devons affirmer une relation de cause entre ces deux objets. Relation qui se veut
+réciproque et continue. En effet, puisque ces technologies évoluent constamment et que nous ne
+cessons de les utiliser dans notre vie quotidienne, notre façon de penser change sans cesse avec elles.
+De même, l’évolution du numérique est dictée par l’évolution de nos besoins, de nos compétences, de
+la disponibilité des matériaux. Il s’agit d’un conditionnement réciproque et prolongée dans le temps et, plus profondément, d’une détermination mutuelle. La représentation et le dispositif humains
+découlent donc de cette relation, sans y prendre part en tant qu’entités autonomes et préconstituées
+(Bozalek, 2021, p. 40). Dans ce contexte, la cause et l’effet ne sont pas des propriétés d’éléments
+distincts mais caractérisent un type d’interdépendance matérielle. Le concept de cause ainsi repensé
+s’inscrit dans la notion d’« intra-action » introduite par Karen Barad, selon laquelle l’existence des
+objets et des concepts est ontologiquement enracinée dans la relationnalité qui les détermine : « The neologism “intra-action” signifies the mutual constitution of entangled agencies. That is, in
+contrast to the usual “interaction,” which assumes that there are separate individual agencies
+that precede their interaction, the notion of intra-action recognizes that distinct agencies do not
+precede, but rather emerge through, their intra-action. It is important to note that the “distinct”
+agencies are only distinct in a relational, not an absolute, sense, that is, agencies are only distinct
+in relation to their mutual entanglement; they don’t exist as individual elements. (Barad, 2007, p.
+33) »
+
+Dans ce contexte, la pensée humaine est constitutivement impliquée dans la relation causale avec le
+dispositif informatique. L’interprétation du numérique ne peut donc s’abstraire de cette relation. Au
+contraire, l’interprétation doit contribuer à déterminer notre représentation et le dispositif numérique.
+Elle doit être comprise comme faisant partie intégrante de la matière et du processus de sa constitution
+(Pitts-Taylor, 2016). L’herméneutique du numérique ne peut donc pas consister à poser une grille
+d’interprétation sur le monde, mais doit être un acte. Karen Barad écrit à ce sujet : « knowing, thinking,
+measuring, theorizing, and observing are material practices of intra-acting within and as part of the
+world » (2007, p. 91).
+
+Bien qu’il s’agisse d’une forme de pensée, l’interprétation ne peut être ontologiquement différente de
+l’action. Elle a une valeur productive, comme l’a écrit Gadamer, bien que dans un contexte différent.
+(2018). En tant qu’action inscrite dans la relation qui détermine l’homme et la machine, l’interprétation
+reconfigure cette relation et, en même temps, notre façon de la représenter. Il s’agit d’une « recaté-
+gorisation constructive » 2 de la réalité et d’une modification de celle-ci (Edelman et Tononi, 2001).
+La théorie et la pratique, la compréhension et l’action, la représentation et le monde n’existent pas
+indépendamment les uns des autres.
+
+Cela a au moins deux conséquences. La première est la fin du concept d’identité. Si le monde est
+une activité tensionnelle et une reconfiguration continue, il ne peut y avoir d’objets, de personnes ou
+de concepts avec une essence définie une fois pour toutes. Ici, le refus d’une coupure radicale entre
+représentation et matière implique la contestation d’autres distinctions traditionnellement placées au
+fondement de la compréhension, telles que celles entre sujet et objet et entre interprète et interprété.
+La deuxième conséquence est liée à la première et consiste en la fin de la prérogative humaine sur
+l’interprétation. Il ne peut y avoir d’interprétation que dans un contexte collaboratif et relationnel, dont l’humain n’est pas le seul acteur. Encore Barad écrit : « In some instances, “nonhumans” (even
+beings without brains) emerge as partaking in the world’s active engagement in practices of knowing »
+(Barad, 2007, p. 149).
+
+Pour illustrer ce dernier point, revenons à la question de la rigueur du code. Ce ne sont pas nos
+capacités cognitives qui l’exigent. Dans notre vie quotidienne, nous nous référons principalement à
+des informations définies de manière ambiguë et agissons en conséquence. La rigueur nous semble
+pourtant être une propriété centrale du code, utile pour comprendre sa spécificité. L’intégrité du
+système matériel qui contribue à le déterminer nous permet également de le comprendre.
+Enfin, nous ajoutons que l’interprétation des technologies informatiques devrait tenir compte de la
+nature relationnelle de l’objet d’étude. Si, pour le néo-matérialisme, les concepts et les objets sont
+des conformations particulières de la matière, ces objets doivent être compris à partir du contexte
+matériel qui leur permet d’exister et dans lequel ils sont ontologiquement intégrés. En prenant en
+considération le cas mentionné, l’analyse d’un langage informatique, d’un protocole ou d’un algorithme
+en particulier peut nous renseigner davantage sur les besoins et le système de valeurs incarnés par ces
+objets. Essayons d’appliquer ces considérations au sujet du protocole. Décrivons d’abord quelques
+concepts généraux, qui devront ensuite être clarifiés par l’analyse d’un protocole spécifique, dans
+notre cas TCP/IP.
+
+Nous avons déjà vu que le protocole est le produit d’une série de compétences, d’intérêts, de circonstances sociopolitiques, d’institutions, de relations de pouvoir, d’instruments techniques, de disponibilités matérielles et d’investissements monétaires évolutifs qui se sont croisés à un moment historique
+donné. Nous pouvons donc affirmer son caractère contingent. D’autre part, ces arrangements sont
+basés sur des modèles computationnels qui, en raison de leur nature formelle, sont nécessairement
+valides.
+
+Deuxièmement, et toujours en tant qu’objet historiquement déterminé, le protocole informatique est
+par définition dépassable par les technologies futures. En effet, ce dispositif systématise et modélise
+des actions destinées à résoudre un ensemble particulier de besoins, en tenant compte d’un ensemble
+particulier de technologies. Or, le fait que la structure matérielle du protocole technique organise des
+actions en vue de certains besoins montre que la configuration même du dispositif systématise et
+formalise certains besoins, les déclarant valables dans le futur (cfr. Bachimont, 2010).
+Pensons, en troisième lieu, à la nature performative du protocole. « Protocol is a circuit, not a sen-
+tence », écrit Alexander Galloway (Galloway, 2004, p. 53). Sa portée dans le monde est assurée par son
+interaction systémique avec d’autres programmes et dispositifs physiques. En même temps, nous ne
+pouvons pas nier la nature stratifiée et radicalement hétérogène des dispositifs informatiques. Nous
+comprenons, par exemple, comment le code binaire répond à des logiques et à des besoins différents
+de ceux d’un fichier pdf. Le premier est en effet conçu pour permettre la lecture, l’exécution, par la
+machine, et le second est constitué pour assurer la lecture humaine.
+
+Ce dernier point nous suggère que les oppositions soulevées jusqu’à présent, loin de montrer la nature
+contradictoire du dispositif informatique, découlent du fait que ce dernier est composé de différentes
+instances et logiques, qu’il est nécessaire de sonder en relation avec le fonctionnement de différents
+objets informatiques. Considérons maintenant ces aspects à la lumière du fonctionnement et de
+l’histoire de la suite des protocoles TCP/IP qui définit l’Internet, afin de proposer une subdivision et
+une abstraction de ses instances qui le composent.
+
