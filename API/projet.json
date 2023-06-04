@@ -1,31 +1,28 @@
 {
     "chapitres": [
       {
-        "catégorie": "Contexte et méthodologie",
+        "categorie": "Contexte et méthodologie",
         "paragraphes": [
           {
             "id": "paragrafo1",
-            "catégorie": "concetto",
-            "sous-catégorie": "nuovo-materialismo",
+            "categorie": "concetto",
+            "sous-categorie": "nuovo-materialismo",
             "texte": "Les technologies numériques structurent l’univers dans lequel nous vivons. Elles déterminent temporellement et spatialement la réalité et influencent les représentations, c’est-à-dire notre manière d’appréhender le monde en tant que totalité composée d’objets stables et clairement définis. Pensons, par exemple, aux appareils mobiles. Ils nous incitent à construire continuellement notre présence en ligne et à diriger notre attention vers la construction d’autres présences, en systématisant une gestuelle « déambulatoire et scripturale » (Cavallari, 2017). Nous marchons effectivement la tête baissée en tambourinant sur l’écran pour répondre à un message ou nous nous déplaçons dans l’espace en suivant la ligne indiquée par notre navigateur de confiance, en passant nos doigts sur la surface du dispositif pour mieux comprendre où aller. Ces gestuelles jouent un rôle central dans la constitution de notre sphère d’action et de perception, déterminant, notamment, la manière dont nous vivons et comprenons la ville (Cavallari, 2017). Des dynamiques similaires peuvent être observées dans de nombreux autres contextes : la production et la circulation de l’information, les transactions économiques et la manière dont nous définissons et incarnons les idées de personne et de mémoire sont désormais façonnées et rendues possibles par des technologies informatiques. La confrontation avec ces dispositifs est donc indispensable à toute réflexion sur le présent."
           },
           {
             "id": "paragrafo2",
-            "catégorie": "concetto",
-            "sous-catégorie": "nuovo-materialismo",
+            "categorie": "concetto",
+            "sous-categorie": "nuovo-materialismo",
             "texte": "De manière complémentaire, tenter de comprendre le sens de ces dispositifs nous interpelle sur notre façon de connaître et de vivre dans le monde. La notion de « culture numérique » élaborée par Milad Doueihi théorise précisément cette influence mutuelle, en mettant l’accent sur la portée des dispositifs numériques dans la production et la circulation des connaissances. Il s’agit d’une transformation radicale qui concerne « la nature même des objets de notre savoir » et « l’espace censé les accueillir et les faire circuler » (2011, p. 11)."
           },
           {
             "id": "paragrafo3",
-            "catégorie": "concetto",
-            "sous-catégorie": "critical-code-studies",
-            "texte": "Pour clarifier cette notion, Doueihi fait référence au concept d’amitié, montrant que la culture
-            numérique reprend et, en même temps, remodèle profondément la définition classique de cette notion. Il se réfère plus particulièrement aux cas de Facebook et de Wikipédia [-@doueihiPourHumanismeNumerique2011a, p. 81]. D’une part, la définition aristotélicienne d’amitié présuppose une condition d’égalité et d’équivalence entre les sujets, excluant ainsi tout ordre hiérarchique ou relation de pouvoir. D’autre part, alors que Facebook présente une radicalisation du concept, établissant une communauté qui oublie les spécificités et les besoins individuels, Wikipédia exclut toute relation personnelle entre les utilisateurs, identifiant la notion d’égalité
-            avec l’anonymat des auteurs. Tandis que dans la modélisation de Facebook, le partage est poussé à
-            l’extrême et concerne tous les domaines, Wikipédia initie une interaction exclusivement tournée vers
-            le savoir, lui-même identifié à l’information objective."
+            "categorie": "concetto",
+            "sous-categorie": "critical-code-studies",
+            "texte": "Pour clarifier cette notion, Doueihi fait référence au concept d’amitié, montrant que la culture numérique reprend et, en même temps, remodèle profondément la définition classique de cette notion. Il se réfère plus particulièrement aux cas de Facebook et de Wikipédia. D’une part, la définition aristotélicienne d’amitié présuppose une condition d’égalité et d’équivalence entre les sujets, excluant ainsi tout ordre hiérarchique ou relation de pouvoir. D’autre part, alors que Facebook présente une radicalisation du concept, établissant une communauté qui oublie les spécificités et les besoins individuels, Wikipédia exclut toute relation personnelle entre les utilisateurs, identifiant la notion d’égalité avec l’anonymat des auteurs. Tandis que dans la modélisation de Facebook, le partage est poussé à l’extrême et concerne tous les domaines, Wikipédia initie une interaction exclusivement tournée vers le savoir, lui-même identifié à l’information objective."
           }
         ]
       }
     ]
   }
+  
