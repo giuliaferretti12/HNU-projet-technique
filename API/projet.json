@@ -4,25 +4,66 @@
         "categorie": "Contexte et méthodologie",
         "paragraphes": [
           {
-            "id": "paragrafo1",
-            "categorie": "concetto",
+            "id": "paragraphe1",
+            "categorie": "concept",
             "sous-categorie": "nuovo-materialismo",
             "texte": "Les technologies numériques structurent l’univers dans lequel nous vivons. Elles déterminent temporellement et spatialement la réalité et influencent les représentations, c’est-à-dire notre manière d’appréhender le monde en tant que totalité composée d’objets stables et clairement définis. Pensons, par exemple, aux appareils mobiles. Ils nous incitent à construire continuellement notre présence en ligne et à diriger notre attention vers la construction d’autres présences, en systématisant une gestuelle « déambulatoire et scripturale » (Cavallari, 2017). Nous marchons effectivement la tête baissée en tambourinant sur l’écran pour répondre à un message ou nous nous déplaçons dans l’espace en suivant la ligne indiquée par notre navigateur de confiance, en passant nos doigts sur la surface du dispositif pour mieux comprendre où aller. Ces gestuelles jouent un rôle central dans la constitution de notre sphère d’action et de perception, déterminant, notamment, la manière dont nous vivons et comprenons la ville (Cavallari, 2017). Des dynamiques similaires peuvent être observées dans de nombreux autres contextes : la production et la circulation de l’information, les transactions économiques et la manière dont nous définissons et incarnons les idées de personne et de mémoire sont désormais façonnées et rendues possibles par des technologies informatiques. La confrontation avec ces dispositifs est donc indispensable à toute réflexion sur le présent."
           },
           {
-            "id": "paragrafo2",
-            "categorie": "concetto",
+            "id": "paragraphe2",
+            "categorie": "concept",
             "sous-categorie": "nuovo-materialismo",
             "texte": "De manière complémentaire, tenter de comprendre le sens de ces dispositifs nous interpelle sur notre façon de connaître et de vivre dans le monde. La notion de « culture numérique » élaborée par Milad Doueihi théorise précisément cette influence mutuelle, en mettant l’accent sur la portée des dispositifs numériques dans la production et la circulation des connaissances. Il s’agit d’une transformation radicale qui concerne « la nature même des objets de notre savoir » et « l’espace censé les accueillir et les faire circuler » (2011, p. 11)."
           },
           {
-            "id": "paragrafo3",
-            "categorie": "concetto",
+            "id": "paragraphe3",
+            "categorie": "concept",
             "sous-categorie": "critical-code-studies",
             "texte": "Pour clarifier cette notion, Doueihi fait référence au concept d’amitié, montrant que la culture numérique reprend et, en même temps, remodèle profondément la définition classique de cette notion. Il se réfère plus particulièrement aux cas de Facebook et de Wikipédia. D’une part, la définition aristotélicienne d’amitié présuppose une condition d’égalité et d’équivalence entre les sujets, excluant ainsi tout ordre hiérarchique ou relation de pouvoir. D’autre part, alors que Facebook présente une radicalisation du concept, établissant une communauté qui oublie les spécificités et les besoins individuels, Wikipédia exclut toute relation personnelle entre les utilisateurs, identifiant la notion d’égalité avec l’anonymat des auteurs. Tandis que dans la modélisation de Facebook, le partage est poussé à l’extrême et concerne tous les domaines, Wikipédia initie une interaction exclusivement tournée vers le savoir, lui-même identifié à l’information objective."
+          },
+          {
+            "id": "paragraphe4",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "La culture numérique n’existe pas indépendamment de la culture tout court, la modélisation qu’elle propose en dépend directement. L’exemple sur la notion d’amitié proposé par Doueihi nous montre que les outils numériques sont capables de modifier notre monde parce qu’ils en font essentiellement partie."
+          },
+          {
+            "id": "paragraphe5",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "En d’autres termes, l’impact transformateur du dispositif n’est pas une invention créée ex novo, mais est également déterminé par les cultures, les pratiques, les institutions, la disponibilité de matériel, les dynamiques spatiales et temporelles au sein desquelles le dispositif lui-même est constitué et exerce son influence. La célèbre expression de Marshall McLuhan – « medium is the message » – (Mcluhan et Lapham, 1994) pourrait ainsi être intégrée à partir de ces réflexions. Le message dépend de la manière dont le média prend en compte et formate le réel, qui n’est jamais neutre. Le réel peut être transformé par le médium, même radicalement, mais ne peut à son tour manquer d’avoir un impact sur la constitution du support lui-même."
+          },
+          {
+            "id": "paragraphe6",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "Le domaine émergent des études critiques du code s’intéresse précisément à l’influence mutuelle entre le dispositif numérique et les systèmes et cultures dans lesquels il est intégré (Marino, 2020). En identifiant dans le code informatique la clé d’accès à l’étude de cette interdépendance, les études critiques de code cherchent à observer la portée culturelle du code au-delà de la fonction spécifique pour laquelle il a été créé. Ce dernier est compris en tant qu’artefact, conçu et mis en œuvre dans un contexte matériel et social. Le code est en effet défini par son histoire, ses usages et par « les interconnexions et les dépendances avec d’autres codes, matériels et cultures » (2020, p. 31)."
+          },
+          {
+            "id": "paragraphe7",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "A partir de ce constat, Mark Marino peut affirmer que l’étude de la structure technique du code en dit long sur le contexte matériel et culturel dans lequel il est conçu et utilisé : « analyzing code to better understand programs and the networks of other programs and humans they interact with, organize, represent, manipulate, transform, and otherwise engage. Reading code functions as an entry point to reading culture » (2020, p. 44). Si le code est conçu comme un outil épistémologique pour comprendre de telles interactions, sa véracité est garantie par sa nature hybride et médiale."
+          },
+          {
+            "id": "paragraphe8",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "En effet, le code est défini par Marino comme le garant de la rencontre entre les intentions humaines, toujours enracinées dans une culture, et la structure matérielle du dispositif informatique. Il est donc compris en tant qu’expression et concrétisation de la pensée humaine. Concrétisation qui émerge à l’intérieur des outils informatiques en vue de la réalisation d’un programme, d’une fonction ou d’un logiciel spécifique. « [M]ost code is an expression of thought in a kind of shorthand, typically not an ends but a set of symbols that emerge from the process of making something else », écrit encore Marino (2020, p. 234)."
+          },
+          {
+            "id": "paragraphe9",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "Selon cette approche, le code est le support de la pensée humaine dans le contexte technique de la machine (2020, p. 154). En tant que symbolisation de la pensée, il devient une représentation du discours humain. Marino peut ainsi affirmer la possibilité et la nécessité d’élaborer une lecture herméneutique du code informatique, afin de comprendre les systèmes et les cultures auxquelles il se réfère et qui le déterminent. Il s’agit donc de définir ce qu’il est nécessaire d’observer pour mener à bien une telle analyse herméneutique."
+          },
+          {
+            "id": "paragraphe10",
+            "categorie": "concept",
+            "sous-categorie": "critical-code-studies",
+            "texte": "À la question « What can be interpreted? », Marino répond : « Everything. The code, the documentation, the comments, the structures, the compiled versions – all will be open to interpretation », arguant qu’une lecture du code informatique doit prendre en compte tous ces éléments (Marino, 2020, p. 44). Quelques lignes plus loin, ce même auteur soutient l’importance de lire le code en fonction du destinataire (audience) pour lequel il a été écrit. Le destinataire correspond pour Marino à la machine qui exécute le code, aux autres machines avec lesquelles il interagit et à ceux et celles qui tenteront de comprendre sa structure afin d’y apporter des modifications (Marino, 2020, p. 44). L’audience garantit l’existence du code en tant qu’objet écrit pour être compris, et mis en œuvre. Outre les intentions et la culture de l’auteur, le code est ainsi également déterminé par les attentes et les capacités de ses lecteurs."
           }
         ]
       }
     ]
   }
-  
